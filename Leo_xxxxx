@@ -232,6 +232,13 @@ end)
 
 end
 
+game.StarterGui:SetCore("SendNotification", {
+
+          Title = "Leoshop HUB", 
+
+          Text = "ลีโอหำน้อย"
+
+      })
 
 
 
